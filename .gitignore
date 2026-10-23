@@ -1,0 +1,7 @@
+# Godot
+.godot/
+*.tmp
+
+# Builds
+build/
+export/
